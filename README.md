@@ -96,13 +96,11 @@ You can deploy this project using:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/shaaibu)
 
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/Caren-Koroeny/)
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add functionality to edit tasks on todo list]**
+- [ ] **[Arrange tasks based on priority]**
+
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
